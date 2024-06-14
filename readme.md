@@ -2,6 +2,8 @@
 <br><br>とりあえずインビのインスタンス置いとく<br>
 https://docs.invidious.io/instances/<br>
 https://invidious.namazso.eu/<br>
+<br>
+https://github.com/siawaseok3/slim-2-by-siawaseok <br>
 偽装ページが違うやつ  
 ブログをブロックされるとき用  
 ASGIで動く  
